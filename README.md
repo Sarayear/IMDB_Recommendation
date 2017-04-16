@@ -7,7 +7,7 @@ engine will be able to suggest similar movies to users based on users’ watched
 The use of an efficient and accurate recommendation engine is crucial in today’s internet
 industry, because it can vastly reduce user's time effort to look up for similar product/service,
 and therefore potentially enrich user experience and increase sales for e-commerce. Since the
-dataset contains many rich information, we might use the dataset to do the following research if
+dataset contains rich information, we might use the dataset to do the following research if
 we have enough time: 1). plot a network graph of the partnership among actors; 2). use movie
 reviews to perform sentiment analysis; 3). use movie reviews to find out the trending words of
 the movie.
@@ -22,7 +22,7 @@ Shengjie Shi: Python, R, HTML, Machine Learning, Economics
 
 ### Targeted Audience
 
-Two types of people will be interested in this movie recommendation engine:
+Three types of people will be interested in this movie recommendation engine:
 
 1. Movie audiences: the movie recommendation engine can help them efficiently locate
 similar movies based on their appetites.
